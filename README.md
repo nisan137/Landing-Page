@@ -1,3 +1,4 @@
 # Reflexology-love-yourself
-https://nisan137.github.io/Reflexology-love-yourself/README.md
 
+I created a landing page for my old business.
+I used HTML & CSS in this project.
